@@ -1,6 +1,6 @@
 import './App.css';
-
-function App() {
+const hamid = 'ss';
+function Apps() {
     return (
         <>
             <h1>Hello</h1>
