@@ -11,8 +11,7 @@ function App() {
                 type="button"
                 onClick={() => {
                     setText('oh yeah');
-                }}
-            >
+                }}>
                 <h1>{text}</h1>
             </button>
             <h1>Hello</h1>
